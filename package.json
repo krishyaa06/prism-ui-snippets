@@ -1,0 +1,30 @@
+{
+  "name": "prism-ui-snippets",
+  "version": "1.0.0",
+  "description": "Gallery of dependency-free dark UI components with live previews and HTML / CSS / JSX / standalone export.",
+  "scripts": {
+    "test": "node --test",
+    "start": "npx --yes serve ."
+  },
+  "keywords": [
+    "ui-components",
+    "css",
+    "html",
+    "components",
+    "copy-paste",
+    "dark-mode",
+    "frontend",
+    "design-tools",
+    "prism-protocol"
+  ],
+  "author": "Soumya Bhandare (krishyaa06)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishyaa06/prism-ui-snippets.git"
+  },
+  "homepage": "https://krishyaa06.github.io/prism-ui-snippets/",
+  "engines": {
+    "node": ">=18.17"
+  }
+}
